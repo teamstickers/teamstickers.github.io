@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap');
+p{
+	font-family: 'Lato', medium;
+	font-weight: 400;
+}
+
+h2 {
+	font-family: 'Lato',medium;
+	font-weight: 700;
+}
